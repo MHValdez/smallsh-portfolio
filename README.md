@@ -5,7 +5,7 @@ A miniature Bash-like shell; Main project for Operating Systems class
 
 ## Introduction
 
-This code replicates the functionality of Bash in many ways, deviates in some ways, and is non-functional in many other ways.
+This code replicates the functionality of Bash in many ways, deviates in some ways, and does not implement more advanced features.
 
 The primary purpose of the assignment was to demonstrate an understanding of:
 - Forking
