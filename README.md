@@ -12,8 +12,6 @@ The primary purpose of the assignment was to demonstrate an understanding of:
 - Signal Handling
 - Redirection
 
-The original, unaltered assignment specifications are provided below. They seemed to have become quite bloated by the time I took the course and the (new) professor expressed his displeasure with them. The course was undergoing redesign and I was in the last cohort to do this version.
-
 ## Truncated Assignment Specification
 
 Introduction
